@@ -1,0 +1,32 @@
+_repo: Stufen--Eine-Entwickelung-in-Aphorismen-und-Tagebuch-Notizen_15898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morgenstern, Christian
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '3106'
+    url: http://www.gutenberg.org/2009/agents/3106
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Christian_Morgenstern
+    - http://de.wikipedia.org/wiki/Christian_Morgenstern
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2005-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15898'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Autobiographies'
+- !lcc 'BD'
+- !lcsh 'Aphorisms and apothegms'
+title: 'Stufen: Eine Entwickelung in Aphorismen und Tagebuch-Notizen'
+url: http://www.gutenberg.org/ebooks/15898
